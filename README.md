@@ -12,6 +12,6 @@ Add your pusher data to
 1. routes/chat.js
 2. public/app.js
 
-Add you connection data to config/db.js
+Add you MongoDB connection data to config/db.js
 
 Download it and install dependencies with command npm i and then npm run start 
