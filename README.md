@@ -6,7 +6,7 @@ Zein Chat is simple real time chat app built with NodeJS, Pusher and MongoDB.
 
 Create your Pusher account at [pusher.com](http://pusher.com)
 
-Then set up your MongoDB server or use remote one.
+Then set up your MongoDB server or use [mlab](https://mlab.com).
 
 Add your pusher data to
 1. routes/chat.js
